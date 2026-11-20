@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Ishan!
 
-<!--
-**washere1/washere1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Carnegie Mellon University's School of Computer Science**, interested in algorithms, systems engineering, machine learning, and quantitative finance.
 
-Here are some ideas to get you started:
+### Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[PackRight: Constraint-Aware 3D Packing](https://github.com/washere1/packright)**
+
+A 3D packing planner that uses deterministic search, geometric constraints, and independent feasibility validation to generate packing arrangements.
+
+- **Stack:** Python, FastAPI, React, TypeScript, Three.js
+- Bounded placement search with collision, orientation, weight, and support constraints
+- Independent validation and 95 automated tests
+- [Live Demo](https://packright-800514490552.us-east1.run.app/)
+
+### Research
+
+- **CALSys Research Laboratory:** Machine learning, cybersecurity data engineering, and experimental evaluation
+- **IROS 2026 Space Robotics Workshop:** Co-authored research on progress-aware evaluation and off-policy supervision for lunar rover safety systems
+
+### Interests
+
+Quantitative development, efficient algorithms, optimization, and reliable software systems.
+
+[LinkedIn](https://www.linkedin.com/ishanwazir) · [PackRight](https://github.com/washere1/packright)
